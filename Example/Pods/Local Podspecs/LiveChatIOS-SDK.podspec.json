@@ -1,0 +1,34 @@
+{
+  "name": "LiveChatIOS-SDK",
+  "version": "0.1.0",
+  "summary": "A short description of LiveChatIOS-SDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ngnahtn/LiveChatIOS-SDK.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "${USER_NAME}": "${USER_EMAIL}"
+  },
+  "source": {
+    "git": "https://github.com/ngnahtn/LiveChatIOS-SDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "static_framework": true,
+  "source_files": "LiveChatIOS-SDK/Classes/**/*",
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "lottie-ios": [
+
+    ],
+    "ScClient": [
+
+    ]
+  }
+}

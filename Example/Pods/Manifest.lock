@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (5.6.0)
+  - HandyJSON (5.0.2)
+  - LiveChatIOS-SDK (0.1.0):
+    - Alamofire
+    - lottie-ios
+    - ScClient
+  - lottie-ios (3.5.0)
+  - ScClient (2.0.1):
+    - HandyJSON (~> 5.0.1)
+    - Starscream (~> 3.1.1)
+  - Starscream (3.1.1)
+
+DEPENDENCIES:
+  - Alamofire (= 5.6)
+  - LiveChatIOS-SDK (from `../`)
+  - lottie-ios (= 3.5.0)
+  - ScClient
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - HandyJSON
+    - lottie-ios
+    - ScClient
+    - Starscream
+
+EXTERNAL SOURCES:
+  LiveChatIOS-SDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 0c07058209f211e3d32824f8e0766d7c44ac83b3
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  LiveChatIOS-SDK: ad93adb763b035d4d86d0d65cf897a6dd9f00270
+  lottie-ios: c55158d67d0629a260625cc2ded2052b829e3c3e
+  ScClient: 94fdce493b8838dcff741d8e1467ed787f266c4c
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+
+PODFILE CHECKSUM: 370c0d13ccd721f5989a4640bd9ef610445f4711
+
+COCOAPODS: 1.11.3

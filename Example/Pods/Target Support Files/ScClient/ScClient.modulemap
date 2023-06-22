@@ -1,0 +1,6 @@
+framework module ScClient {
+  umbrella header "ScClient-umbrella.h"
+
+  export *
+  module * { export * }
+}

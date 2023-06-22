@@ -1,0 +1,6 @@
+framework module LiveChatIOS_SDK {
+  umbrella header "LiveChatIOS-SDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
